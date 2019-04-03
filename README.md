@@ -1,0 +1,6 @@
+# test
+```php
+<?php
+phpinfo();
+?>
+```
